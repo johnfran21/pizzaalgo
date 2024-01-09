@@ -1,0 +1,6 @@
+Order Pizza
+Give cash to cashier
+Go to End of the line
+Wait for Pizza
+Pick Up pizza 
+Eat Pizza 
